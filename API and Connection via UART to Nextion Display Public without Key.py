@@ -82,7 +82,7 @@ while True:
       #print('ENTER PRESSED')
       keypress='1'
 
-#NEMO Zip pressed
+#Zip pressed
     elif truncated_input == '65010f':
         zip='48240'
         zipwithcountrycode= zip + ',us'
